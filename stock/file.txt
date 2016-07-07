@@ -1,0 +1,5 @@
+stockname="abc";
+stockprice=121;
+noofshares=34;
+shareprice=34456567;
+453567776
